@@ -1,0 +1,23 @@
+{
+  "name": "e_commerce-website-amazone-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/killshotxd/E_Commerce-Website-Amazone-Clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/killshotxd/E_Commerce-Website-Amazone-Clone/issues"
+  },
+  "homepage": "https://github.com/killshotxd/E_Commerce-Website-Amazone-Clone#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
